@@ -1,8 +1,8 @@
 <div align='center'>
   <samp>
     <a href='https://serhii.be'>website</a> |
-    <a href='https://www.linkedin.com/in/serhii-be'>linkedin</a> |
-    <a href='https://x.com/serhii_be'>X</a>
+    <a href='https://x.com/serhii_be'>X</a> |
+    <a href='https://www.linkedin.com/in/serhii-be'>linkedin</a>
   </samp>
 </div>
 
